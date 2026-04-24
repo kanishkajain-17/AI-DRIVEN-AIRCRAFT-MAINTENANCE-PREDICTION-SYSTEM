@@ -185,10 +185,9 @@ streamlit run frontend.py
 
 ## 🚀 Future Scope
 
-- Real-time aircraft monitoring  
-- IoT sensor data integration  
+- Real-time aircraft monitoring   
 - Live warning alerts  
-- Cloud deployment  
+- Clybersecurity Integration
 - Advanced AI maintenance system  
 
 ---
