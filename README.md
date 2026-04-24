@@ -141,7 +141,7 @@ Possible algorithms:
 - NumPy  
 - Matplotlib  
 - Seaborn  
-- Flask / Streamlit  
+- Streamlit  
 
 ---
 
